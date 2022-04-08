@@ -1,0 +1,9 @@
+MYIP=$(curl -s ifconfig.me)
+CHAINID=krudev
+ACC_PREFIX=krudev
+HOME_CLIENT="/BNB/chainfiles"
+HOME_NET="/BNB/chainfiles"
+MONKIER=first
+####
+VAL_NUM=1
+OUTPUT_DIR="/BNB/chainfiles/output"
